@@ -25,6 +25,7 @@ namespace Bai20
             InitializeComponent();
             Console.WriteLine("anbc");
             //11111
+            //2222
         }
     }
 }
