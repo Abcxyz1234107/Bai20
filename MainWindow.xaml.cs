@@ -23,6 +23,7 @@ namespace Bai20
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("anbc");
         }
     }
 }
